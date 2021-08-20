@@ -1,0 +1,31 @@
+.headd {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient( to right, rgba(34, 129, 236, 0.305), rgba(59, 255, 223, 0.526) ), url("https://aniket848.github.io/osi-project/images/title1.png");
+    background-size: 100% 100%;
+    clip-path: polygon(100% 0, 100% 75%, 50% 100%, 0 75%, 0 0);
+}
+.inside {
+    width: 90%;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    font-family: sans-serif;
+    z-index: 2;
+}
+button {
+    background-color: transparent;
+    border: 1ps solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    box-shadow: 1px 1px 5px 2.5px white;
+    padding: 5px;
+    margin: 10px;
+}
+h1{
+    font-family: 'Montserrat', sans-serif
+}

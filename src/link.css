@@ -1,0 +1,23 @@
+.link {
+    text-align: center;
+    
+    color: rgb(83, 201, 248);
+}
+.link i {
+    color: rgb(26, 28, 29) !important ;
+    margin: 10px 20px ;
+    font-size: 1.5rem;
+}
+.link+i:hover{
+    cursor: pointer;
+}
+.fab:hover{
+    cursor: pointer;
+    color: #70da46;
+    font-size: 1.6rem;
+
+}
+button:hover{
+    cursor: pointer;
+   background-color: #70da46cb;
+}

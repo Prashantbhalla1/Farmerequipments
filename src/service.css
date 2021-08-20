@@ -1,0 +1,32 @@
+.w {
+    padding: 5px 40px;
+}
+
+.w {
+    background-color: rgba(185, 182, 182, 0.174);
+    margin: 80px 0px;
+}
+.what {
+    display: flex;
+    margin: 40px 0px;
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
+.rw {
+    flex: 50%;
+    margin-left: 20px;
+}
+.rbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 2rem;
+    margin: 20px 0px;
+}
+.rbox p {
+    text-align: start;
+}
