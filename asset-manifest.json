@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Farmingequipments/S/static/css/main.7d1ec1f2.chunk.css",
-    "main.js": "/Farmingequipments/S/static/js/main.a8ca8a88.chunk.js",
-    "main.js.map": "/Farmingequipments/S/static/js/main.a8ca8a88.chunk.js.map",
-    "runtime-main.js": "/Farmingequipments/S/static/js/runtime-main.0af1d1a6.js",
-    "runtime-main.js.map": "/Farmingequipments/S/static/js/runtime-main.0af1d1a6.js.map",
-    "static/js/2.bbba0b26.chunk.js": "/Farmingequipments/S/static/js/2.bbba0b26.chunk.js",
-    "static/js/2.bbba0b26.chunk.js.map": "/Farmingequipments/S/static/js/2.bbba0b26.chunk.js.map",
-    "static/js/3.4920719c.chunk.js": "/Farmingequipments/S/static/js/3.4920719c.chunk.js",
-    "static/js/3.4920719c.chunk.js.map": "/Farmingequipments/S/static/js/3.4920719c.chunk.js.map",
-    "index.html": "/Farmingequipments/S/index.html",
-    "static/css/main.7d1ec1f2.chunk.css.map": "/Farmingequipments/S/static/css/main.7d1ec1f2.chunk.css.map",
-    "static/js/2.bbba0b26.chunk.js.LICENSE.txt": "/Farmingequipments/S/static/js/2.bbba0b26.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Farmingequipments/S/static/media/logo.6ce24c58.svg"
+    "main.css": "/Farmingequipments/static/css/main.7d1ec1f2.chunk.css",
+    "main.js": "/Farmingequipments/static/js/main.a8ca8a88.chunk.js",
+    "main.js.map": "/Farmingequipments/static/js/main.a8ca8a88.chunk.js.map",
+    "runtime-main.js": "/Farmingequipments/static/js/runtime-main.ee4f94a2.js",
+    "runtime-main.js.map": "/Farmingequipments/static/js/runtime-main.ee4f94a2.js.map",
+    "static/js/2.db1bced8.chunk.js": "/Farmingequipments/static/js/2.db1bced8.chunk.js",
+    "static/js/2.db1bced8.chunk.js.map": "/Farmingequipments/static/js/2.db1bced8.chunk.js.map",
+    "static/js/3.4920719c.chunk.js": "/Farmingequipments/static/js/3.4920719c.chunk.js",
+    "static/js/3.4920719c.chunk.js.map": "/Farmingequipments/static/js/3.4920719c.chunk.js.map",
+    "index.html": "/Farmingequipments/index.html",
+    "static/css/main.7d1ec1f2.chunk.css.map": "/Farmingequipments/static/css/main.7d1ec1f2.chunk.css.map",
+    "static/js/2.db1bced8.chunk.js.LICENSE.txt": "/Farmingequipments/static/js/2.db1bced8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Farmingequipments/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0af1d1a6.js",
-    "static/js/2.bbba0b26.chunk.js",
+    "static/js/runtime-main.ee4f94a2.js",
+    "static/js/2.db1bced8.chunk.js",
     "static/css/main.7d1ec1f2.chunk.css",
     "static/js/main.a8ca8a88.chunk.js"
   ]
